@@ -1,5 +1,4 @@
-# Labs-SDPL-
-"Software design and programming languages"
+# Labs "Software design and programming languages"
 
 Lab1.                                                        
 Начало работы с C++.
